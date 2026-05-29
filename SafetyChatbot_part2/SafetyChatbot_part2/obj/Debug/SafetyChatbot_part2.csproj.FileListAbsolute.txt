@@ -1,0 +1,17 @@
+C:\Users\Student\source\repos\SafetyChatbot_part2\SafetyChatbot_part2\bin\Debug\SafetyChatbot_part2.exe.config
+C:\Users\Student\source\repos\SafetyChatbot_part2\SafetyChatbot_part2\bin\Debug\SafetyChatbot_part2.exe
+C:\Users\Student\source\repos\SafetyChatbot_part2\SafetyChatbot_part2\bin\Debug\SafetyChatbot_part2.pdb
+C:\Users\Student\source\repos\SafetyChatbot_part2\SafetyChatbot_part2\obj\Debug\SafetyChatbot_part2.csproj.AssemblyReference.cache
+C:\Users\Student\source\repos\SafetyChatbot_part2\SafetyChatbot_part2\obj\Debug\MainWindow.g.cs
+C:\Users\Student\source\repos\SafetyChatbot_part2\SafetyChatbot_part2\obj\Debug\App.g.cs
+C:\Users\Student\source\repos\SafetyChatbot_part2\SafetyChatbot_part2\obj\Debug\SafetyChatbot_part2_Content.g.cs
+C:\Users\Student\source\repos\SafetyChatbot_part2\SafetyChatbot_part2\obj\Debug\SafetyChatbot_part2_MarkupCompile.cache
+C:\Users\Student\source\repos\SafetyChatbot_part2\SafetyChatbot_part2\obj\Debug\SafetyChatbot_part2_MarkupCompile.lref
+C:\Users\Student\source\repos\SafetyChatbot_part2\SafetyChatbot_part2\obj\Debug\MainWindow.baml
+C:\Users\Student\source\repos\SafetyChatbot_part2\SafetyChatbot_part2\obj\Debug\SafetyChatbot_part2.g.resources
+C:\Users\Student\source\repos\SafetyChatbot_part2\SafetyChatbot_part2\obj\Debug\SafetyChatbot_part2.Properties.Resources.resources
+C:\Users\Student\source\repos\SafetyChatbot_part2\SafetyChatbot_part2\obj\Debug\SafetyChatbot_part2.csproj.GenerateResource.cache
+C:\Users\Student\source\repos\SafetyChatbot_part2\SafetyChatbot_part2\obj\Debug\SafetyChatbot_part2.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\SafetyChatbot_part2\SafetyChatbot_part2\obj\Debug\SafetyChatbot_part2.exe
+C:\Users\Student\source\repos\SafetyChatbot_part2\SafetyChatbot_part2\obj\Debug\SafetyChatbot_part2.pdb
+C:\Users\Student\source\repos\SafetyChatbot_part2\SafetyChatbot_part2\obj\Debug\SafetyChatbot_part2.exe.config
